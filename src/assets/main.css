@@ -33,3 +33,10 @@ a,
     padding: 0 2rem;
   }
 }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
